@@ -1,0 +1,11 @@
+name: QuickDrop
+licenses: 
+    - MIT
+language: Java
+platforms:
+  - Docker
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+  - File Sharing
+description: A self-hosted file-sharing application allowing anonymous uploads, download link generation, and file management with optional password protection and encryption.
+source_code_url: https://github.com/RoastSlav/quickdrop
